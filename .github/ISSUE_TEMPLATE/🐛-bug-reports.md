@@ -1,9 +1,9 @@
 ---
-name: "\U0001F41B Bug report"
+name: "\U0001F41B Bug reports"
 about: Report a reproducible bug or regression.
 title: ''
-labels: 'status: needs triage'
-assignees: ''
+labels: ''
+assignees: joekman990
 
 ---
 
@@ -55,4 +55,3 @@ Steps to reproduce the behavior:
 * Platform (e.g. Web, MacOS Desktop): 
 * Browser name and version: 
 * Operating system and version (desktop or mobile):
-
